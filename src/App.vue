@@ -116,4 +116,8 @@ body {
   color: white;
   background-color: #238CF3;
 }
+
+.mapboxgl-ctrl-bottom-left, .mapboxgl-ctrl-bottom-right {
+  display: none;
+}
 </style>

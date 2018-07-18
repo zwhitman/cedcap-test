@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fe9eb00f845e32b86e377caec3613169.js"
+  "/precache-manifest.7954774731b30d336e645edc0253ea64.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mapper2"});

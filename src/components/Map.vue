@@ -136,7 +136,7 @@ export default {
 <style>
 #webmap {
   position: fixed;
-  height: 100%;
+  height: calc( 100% - 100px );
   width: 100%;
 }
 .btn-container {
